@@ -8,11 +8,11 @@ html{
 body{
     margin: 0rem;
     padding: 0rem;
-    /* background: #585c68; */
+    background: #F4F3F2;
 }
-/* .container{
-    background-color:white ;
-} */
+.container{
+    background-color:#F4F3F2 ;
+}
 .myimage{
     padding-top:2rem;
     width: 100%;
@@ -41,6 +41,16 @@ body{
     font-size: 2.3rem;
     color: brown;
     font-weight: normal;
+}
+
+.education{
+    font-size:2.5rem ;
+    color: brown;
+
+}
+.rightbox{
+    background: #F4F3F2;
+   
 }
 .careerobj{
     /* color: white; */
@@ -82,6 +92,9 @@ body{
     color: purple;
 }
 
+.skillper{
+    font-size: 2.1rem;
+}
 .projects li{
     font-size: 4rem;
 }
