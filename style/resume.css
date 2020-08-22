@@ -1,0 +1,93 @@
+*{
+    box-sizing: border-box;
+    text-decoration: none;
+}
+html{
+    font-size: 62.5%
+}
+body{
+    margin: 0rem;
+    padding: 0rem;
+    /* background: #585c68; */
+}
+/* .container{
+    background-color:white ;
+} */
+.myimage{
+    padding-top:2rem;
+    width: 100%;
+    /* height: 40rem; */
+    border-radius: 50%;
+    /* padding-top: .5rem; */
+}
+/* .name{
+    background: white;
+} */
+
+.myname{
+    /* padding: 2rem 2rem 2rem 2rem; */
+    text-align: center;
+    font-size: 8.2rem;
+    font-weight: bold;
+    font-family: 'Acme', sans-serif;
+}
+.personal-info i{
+    text-align: left;
+    color: black;
+    font-size: 2.5rem;
+    padding: 3rem 0rem 0.8rem 0rem;
+}
+.personal_info_right{
+    font-size: 2.3rem;
+    color: brown;
+    font-weight: normal;
+}
+.careerobj{
+    /* color: white; */
+    padding-top: 2rem;
+    letter-spacing: .4rem;
+    word-spacing: 1rem;
+    font-size: 4rem;
+    font-weight: bold;
+    font-family: 'Acme', sans-serif;
+    text-decoration: underline;
+}
+.aboutpara{
+    font-size: 3.5rem;
+    color: brown;
+    font-family: 'Libre Caslon Display', serif;
+    letter-spacing: .2rem;
+}
+/* .skills ul{
+    margin-left: 3rem;
+} */
+.skills li{
+    font-size: 6rem;
+    /* color: rgb(243, 98, 62); */
+}
+.fa-html5{
+    color: rgb(243, 98, 62);
+
+}
+.fa-js{
+    color: orangered;
+}
+.fa-bootstrap{
+    color: rgb(57, 221, 57);
+}
+.fa-css3{
+    color: palevioletred;
+}
+.fa-python{
+    color: purple;
+}
+
+.projects li{
+    font-size: 4rem;
+}
+.prjoect-content{
+    font-size: 3.5rem;
+    color: brown;
+    letter-spacing: .2rem;
+    font-family: 'Libre Caslon Display', serif;
+}
